@@ -1,16 +1,1 @@
-{
-  "short_name": "KhetBari",
-  "name": "Khet-Bari Pro | Sagar",
-  "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/2942/2942813.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#1b5e20",
-  "background_color": "#f4f7f4"
-}
+
